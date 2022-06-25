@@ -20,7 +20,7 @@
 				<h1>Work in Progress</h1>
 				<p>I am currently working on my portfolio website. Stay Tuned!</p>
 			</header>
-
+<!--
 		<!-- Signup Form -->
 			<form id="signup-form" method="post" action="#">
 				<input type="email" name="email" id="email" placeholder="Email Address" />
@@ -39,7 +39,7 @@
 					<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 			</footer>
-
+-->
 		<!-- Scripts -->
 			<script src="assets/js/main.js"></script>
 
